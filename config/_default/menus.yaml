@@ -27,10 +27,6 @@ leftnav:
   name: Resource Index
   url: /pages/resource-index/
   weight: 70
-- identifier: 8d9607ed-ad68-4ea7-be49-b4560f2d74d1
-  name: page
-  url: /resources/mit6_041scf09_qu01_solnew
-  weight: 80
 - identifier: bf5c1b3c-4dc7-5e91-1daf-783f9a8a6f83
   name: Meet The Team
   parent: 1b731b6f-4737-b89e-b0e3-58a64d24888a
