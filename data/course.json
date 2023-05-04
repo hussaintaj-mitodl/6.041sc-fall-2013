@@ -41,7 +41,10 @@
     "website": "6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013"
   },
   "learning_resource_types": [
-    "Activity Assignments"
+    "Lecture Videos",
+    "Recitation Videos",
+    "Problem Sets with Solutions",
+    "Exams with Solutions"
   ],
   "site_uid": "7ce8aab3-5002-476b-ae06-44c9ac4a6ea3",
   "site_short_id": "6.041sc-fall-2013",
