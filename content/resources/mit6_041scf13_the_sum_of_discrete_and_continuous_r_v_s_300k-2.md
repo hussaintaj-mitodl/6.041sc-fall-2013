@@ -1,8 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/8e0543b9dfbb99a5e1bbe22c6aebea68_MIT6_041SCF13_The_Sum_of_Discrete_and_Continuous_R_V_S_300k.pdf
+draft: false
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/8e0543b9dfbb99a5e1bbe22c6aebea68_MIT6_041SCF13_The_Sum_of_Discrete_and_Continuous_R_V_S_300k.pdf
+file_size: 532675
 file_type: application/pdf
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
@@ -13,4 +19,14 @@ resourcetype: Document
 title: "6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013\
   \ Transcript \u2013 Tutorial: The Sum of Discrete and Continuous Random Variables"
 uid: 8e0543b9-dfbb-99a5-e1bb-e22c6aebea68
+video_files:
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
 ---

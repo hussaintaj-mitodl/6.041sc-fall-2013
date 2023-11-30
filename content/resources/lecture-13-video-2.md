@@ -1,8 +1,15 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
+file_size: '117542797'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -24,8 +31,6 @@ video_files:
 video_metadata:
   youtube_id: gMTiAeE0NCw
 ---
-
 **Description**: In this lecture, the professor discussed Bernoulli process, random processes, basic properties of Bernoulli process, distribution of interarrival times, the time of the kth success, merging and splitting.
 
 **Instructor**: John Tsitsiklis
-

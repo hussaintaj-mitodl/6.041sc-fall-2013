@@ -1,8 +1,15 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
+file_size: '32461677'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
@@ -23,8 +30,6 @@ video_files:
 video_metadata:
   youtube_id: jxxrwZtpHH0
 ---
-
 **Description**:
 
 **Instructor**: Jimmy Li
-

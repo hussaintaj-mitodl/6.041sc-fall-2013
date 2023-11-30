@@ -1,8 +1,15 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
+file_size: '110481797'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -25,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: P7a4bjE6Crk
 ---
-
 **Description**: In this lecture, the professor discussed conditional expectation and sum of a random number of random variables.
 
 **Instructor**: John Tsitsiklis
-

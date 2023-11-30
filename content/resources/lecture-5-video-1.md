@@ -1,10 +1,16 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types:
-- Lecture Videos
+file_size: '116662046'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
@@ -26,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: 3MOahpLxj6A
 ---
-
 **Description**: In this lecture, the professor discussed random variables, probability mass function, expectation, and variance.
 
 **Instructor**: John Tsitsiklis
-

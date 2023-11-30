@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: '118499630'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: Tx7zzD4aeiA
 ---
-
 **Description**: In this lecture, the professor discussed central limit theorem, Normal approximation, 1/2 correction for binomial approximation, and De Moivre–Laplace central limit theorem.
 
 **Instructor**: John Tsitsiklis
-

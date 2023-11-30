@@ -1,8 +1,15 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
+file_size: '120153227'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -24,8 +31,6 @@ video_files:
 video_metadata:
   youtube_id: IkbkEtOOC1Y
 ---
-
 **Description**: In this lecture, the professor discussed Markov process definition, n-step transition probabilities, and classification of states.
 
 **Instructor**: John Tsitsiklis
-

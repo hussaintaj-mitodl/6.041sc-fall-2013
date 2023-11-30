@@ -1,8 +1,15 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
+file_size: '114248020'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -24,8 +31,6 @@ video_files:
 video_metadata:
   youtube_id: 4UJc0S8APm4
 ---
-
 **Description**: In this lecture, the professor discussed classical statistics, maximum likelihood (ML) estimation, and confidence intervals.
 
 **Instructor**: John Tsitsiklis
-

@@ -1,8 +1,15 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
+file_size: '107260672'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -24,8 +31,6 @@ video_files:
 video_metadata:
   youtube_id: 19Ql_Q3l0GA
 ---
-
 **Description**: In this lecture, the professor discussed independence of two events, independence of a collection of events, and independence vs. pairwise independence.
 
 **Instructor**: John Tsitsiklis
-
