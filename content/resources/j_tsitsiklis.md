@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Photograph of John Tsitsiklis
-file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/03d764a784399a004771c269470981ad_J_Tsitsiklis.jpg
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/03d764a784399a004771c269470981ad_J_Tsitsiklis.jpg
+file_size: 3635
 file_type: image/jpeg
 image_metadata:
   caption: ''

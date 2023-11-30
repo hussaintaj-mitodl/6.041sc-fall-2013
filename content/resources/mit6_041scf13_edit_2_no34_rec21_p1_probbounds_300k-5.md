@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/7a0c40401238549cb0d45f457c770831_MIT6_041SCF13_Edit_2_No34_Rec21_P1_ProbBounds_300k.vtt
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/7a0c40401238549cb0d45f457c770831_MIT6_041SCF13_Edit_2_No34_Rec21_P1_ProbBounds_300k.vtt
+file_size: 13428
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

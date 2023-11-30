@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Photograph of Jimmy Li
-file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/ce4c56d1835a998ea1d445e80ed1a45c_J_Li.jpg
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/ce4c56d1835a998ea1d445e80ed1a45c_J_Li.jpg
+file_size: 3511
 file_type: image/jpeg
 image_metadata:
   caption: ''

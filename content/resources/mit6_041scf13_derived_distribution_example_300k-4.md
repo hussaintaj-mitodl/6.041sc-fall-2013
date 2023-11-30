@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/2ff0c450241da277e2ef727043327d29_MIT6_041SCF13_Derived_Distribution_Example_300k.srt
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/2ff0c450241da277e2ef727043327d29_MIT6_041SCF13_Derived_Distribution_Example_300k.srt
+file_size: 13351
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

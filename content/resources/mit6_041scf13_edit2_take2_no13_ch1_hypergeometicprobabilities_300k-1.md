@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/85419e7e7d877392e7f7dac5d2eaca04_MIT6_041SCF13_Edit2_Take2_No13_Ch1_HypergeometicProbabilities_300k.srt
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/85419e7e7d877392e7f7dac5d2eaca04_MIT6_041SCF13_Edit2_Take2_No13_Ch1_HypergeometicProbabilities_300k.srt
+file_size: 7080
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

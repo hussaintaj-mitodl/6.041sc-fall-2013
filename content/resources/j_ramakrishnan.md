@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Photograph of Jagdish Ramakrishnan
-file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/21c3764a14966a2a135860e8375d9f7f_J_Ramakrishnan.jpg
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/21c3764a14966a2a135860e8375d9f7f_J_Ramakrishnan.jpg
+file_size: 12835
 file_type: image/jpeg
 image_metadata:
   caption: ''

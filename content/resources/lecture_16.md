@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/de1d3cd7b9ea6e271478cda527a3a164_Lecture_16.jpg
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/de1d3cd7b9ea6e271478cda527a3a164_Lecture_16.jpg
+file_size: 7839
 file_type: image/jpeg
 image_metadata:
   caption: ''

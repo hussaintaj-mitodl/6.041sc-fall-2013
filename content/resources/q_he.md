@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Photograph of Qing He
-file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/c4d262b3e697ee781dce92be02e4d254_Q_He.jpg
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/c4d262b3e697ee781dce92be02e4d254_Q_He.jpg
+file_size: 4629
 file_type: image/jpeg
 image_metadata:
   caption: ''
