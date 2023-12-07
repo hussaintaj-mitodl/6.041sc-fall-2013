@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/cc0dbf7cdbd752c092e913b718e0c0f8_MIT6_041SCF13_Ch1_Random_Walker_300k.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/cc0dbf7cdbd752c092e913b718e0c0f8_MIT6_041SCF13_Ch1_Random_Walker_300k.pdf
 file_size: 533083
 file_type: application/pdf
 image_metadata:

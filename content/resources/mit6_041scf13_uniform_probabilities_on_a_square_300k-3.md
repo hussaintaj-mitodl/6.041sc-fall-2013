@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/41749f40c561a8fbc1f725c2c80f51dd_MIT6_041SCF13_Uniform_Probabilities_on_a_Square_300k.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/41749f40c561a8fbc1f725c2c80f51dd_MIT6_041SCF13_Uniform_Probabilities_on_a_Square_300k.pdf
 file_size: 581926
 file_type: application/pdf
 image_metadata:

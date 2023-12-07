@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/e1d47305bb606e2e08843c475cc575ec_MIT6_041SCF13_Inferring_a_Discrete_Random_Variable_from_a_Continuous_Measurement_300k.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/e1d47305bb606e2e08843c475cc575ec_MIT6_041SCF13_Inferring_a_Discrete_Random_Variable_from_a_Continuous_Measurement_300k.pdf
 file_size: 546019
 file_type: application/pdf
 image_metadata:

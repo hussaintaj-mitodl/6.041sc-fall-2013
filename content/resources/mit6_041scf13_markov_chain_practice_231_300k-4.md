@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/52933bdd97077baf0e46c2ddff542a92_MIT6_041SCF13_Markov_Chain_Practice_231_300k.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/52933bdd97077baf0e46c2ddff542a92_MIT6_041SCF13_Markov_Chain_Practice_231_300k.pdf
 file_size: 536006
 file_type: application/pdf
 image_metadata:

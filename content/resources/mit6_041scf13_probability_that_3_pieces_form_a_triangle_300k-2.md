@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/5c9076dafe69620be891850c9a14833b_MIT6_041SCF13_Probability_that_3_Pieces_Form_a_Triangle_300k.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/5c9076dafe69620be891850c9a14833b_MIT6_041SCF13_Probability_that_3_Pieces_Form_a_Triangle_300k.pdf
 file_size: 539411
 file_type: application/pdf
 image_metadata:

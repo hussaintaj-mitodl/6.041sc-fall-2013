@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding quiz 2 solutions.
 draft: false
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/cf0eba3c443faa1f571ad4f826556f31_MIT6_041SCF13_qu02_s08_sol.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/cf0eba3c443faa1f571ad4f826556f31_MIT6_041SCF13_qu02_s08_sol.pdf
 file_size: 716333
 file_type: application/pdf
 image_metadata:

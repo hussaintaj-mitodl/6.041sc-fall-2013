@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding final exam.
 draft: false
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/f8f6e35a64a91e44928bc8da702a0b65_MIT6_041SCF13_final.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/f8f6e35a64a91e44928bc8da702a0b65_MIT6_041SCF13_final.pdf
 file_size: 745004
 file_type: application/pdf
 image_metadata:

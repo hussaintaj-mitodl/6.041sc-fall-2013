@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/c33522c4ed8f01784939251e6f716ea6_MIT6_041SCF13_No_9_Ch1_NetworkReliability_300k.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/c33522c4ed8f01784939251e6f716ea6_MIT6_041SCF13_No_9_Ch1_NetworkReliability_300k.pdf
 file_size: 533846
 file_type: application/pdf
 image_metadata:

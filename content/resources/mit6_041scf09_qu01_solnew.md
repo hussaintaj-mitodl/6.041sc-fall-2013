@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/mit6_041scf09_qu01_solnew.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/mit6_041scf09_qu01_solnew.pdf
 file_size: 50916
 file_type: application/pdf
 image_metadata:

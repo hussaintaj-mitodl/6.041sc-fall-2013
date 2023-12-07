@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/ba9ed3d8aa6eef0f8de8510179d1017f_MIT6_041SCF13_Ch1_Coin_Toss_Puzzle_300k.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/ba9ed3d8aa6eef0f8de8510179d1017f_MIT6_041SCF13_Ch1_Coin_Toss_Puzzle_300k.pdf
 file_size: 534218
 file_type: application/pdf
 image_metadata:

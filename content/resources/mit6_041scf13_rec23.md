@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/d0bf280e42fbf4a04e82d71cb97b1c17_MIT6_041SCF13_rec23.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/d0bf280e42fbf4a04e82d71cb97b1c17_MIT6_041SCF13_rec23.pdf
 file_size: 75397
 file_type: application/pdf
 image_metadata:

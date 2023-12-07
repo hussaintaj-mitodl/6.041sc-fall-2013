@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding final exam solutions.
 draft: false
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/1b04056aa8ce6d7617ca0dafe875511e_MIT6_041SCF13_finl_s09_sol.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/1b04056aa8ce6d7617ca0dafe875511e_MIT6_041SCF13_finl_s09_sol.pdf
 file_size: 729979
 file_type: application/pdf
 image_metadata:

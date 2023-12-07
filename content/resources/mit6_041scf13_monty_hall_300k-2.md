@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/357c75c306676e98d01c6cb85d7b14ae_MIT6_041SCF13_Monty_Hall_300k.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/357c75c306676e98d01c6cb85d7b14ae_MIT6_041SCF13_Monty_Hall_300k.pdf
 file_size: 544777
 file_type: application/pdf
 image_metadata:

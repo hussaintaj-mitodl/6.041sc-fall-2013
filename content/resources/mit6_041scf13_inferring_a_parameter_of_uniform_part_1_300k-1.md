@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/12360faafba5316766b0c8d19ca14020_MIT6_041SCF13_Inferring_a_Parameter_of_Uniform_Part_1_300k.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/12360faafba5316766b0c8d19ca14020_MIT6_041SCF13_Inferring_a_Parameter_of_Uniform_Part_1_300k.pdf
 file_size: 575053
 file_type: application/pdf
 image_metadata:

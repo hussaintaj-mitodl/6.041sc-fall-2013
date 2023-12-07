@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/cb9b4f1a27183e8da4ae9268b640f9f8_MIT6_041SCF13_The_Difference_of_Two_Independent_Exponential_Random_Variables_300k.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/cb9b4f1a27183e8da4ae9268b640f9f8_MIT6_041SCF13_The_Difference_of_Two_Independent_Exponential_Random_Variables_300k.pdf
 file_size: 536580
 file_type: application/pdf
 image_metadata:

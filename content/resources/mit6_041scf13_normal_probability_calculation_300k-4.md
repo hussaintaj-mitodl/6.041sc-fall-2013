@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/568d2cb7f42466c0a57d1cb72479920a_MIT6_041SCF13_Normal_Probability_Calculation_300k.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/568d2cb7f42466c0a57d1cb72479920a_MIT6_041SCF13_Normal_Probability_Calculation_300k.pdf
 file_size: 531021
 file_type: application/pdf
 image_metadata:

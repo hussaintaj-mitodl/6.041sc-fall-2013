@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/79056f31168d29e5c77a451c3f64d8a1_MIT6_041SCF13_Mean_and_Variance_of_the_Exponential_300k.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/79056f31168d29e5c77a451c3f64d8a1_MIT6_041SCF13_Mean_and_Variance_of_the_Exponential_300k.pdf
 file_size: 542155
 file_type: application/pdf
 image_metadata:

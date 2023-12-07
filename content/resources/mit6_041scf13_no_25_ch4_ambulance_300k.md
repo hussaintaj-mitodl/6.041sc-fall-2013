@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/4951b5e1d113fdda0a2cc1c1a6f424ad_MIT6_041SCF13_No_25_Ch4_Ambulance_300k.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/4951b5e1d113fdda0a2cc1c1a6f424ad_MIT6_041SCF13_No_25_Ch4_Ambulance_300k.pdf
 file_size: 532334
 file_type: application/pdf
 image_metadata:

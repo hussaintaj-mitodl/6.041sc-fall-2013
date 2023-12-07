@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/5ab16d540cb09b567317afeb6cc8fd8a_MIT6_041SCF13_No_41_Ch7_MeanFirstpassage_26recurranceTimes_300k.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/5ab16d540cb09b567317afeb6cc8fd8a_MIT6_041SCF13_No_41_Ch7_MeanFirstpassage_26recurranceTimes_300k.pdf
 file_size: 611006
 file_type: application/pdf
 image_metadata:

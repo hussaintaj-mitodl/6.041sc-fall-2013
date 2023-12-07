@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/bc6d26f469a7ce927c7d834bafd84da8_MIT6_041SCF13_The_Sum_of_Discrete_and_Continuous_R_V_S_300k.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/bc6d26f469a7ce927c7d834bafd84da8_MIT6_041SCF13_The_Sum_of_Discrete_and_Continuous_R_V_S_300k.pdf
 file_size: 532675
 file_type: application/pdf
 image_metadata:
