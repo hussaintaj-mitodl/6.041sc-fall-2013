@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/abeff645514e722abe1a3c67aa30b099_MIT6_041SCF13_Uniform_Probabilities_on_a_Triangle_300k.srt
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/abeff645514e722abe1a3c67aa30b099_MIT6_041SCF13_Uniform_Probabilities_on_a_Triangle_300k.srt
 file_size: 32130
 file_type: application/x-subrip
 learning_resource_types: []

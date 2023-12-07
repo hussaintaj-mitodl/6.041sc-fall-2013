@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/57d9aa53b6123cb04ecd6b571a311abc_MIT6_041SCF13_An_Inference_Example_300k.srt
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/57d9aa53b6123cb04ecd6b571a311abc_MIT6_041SCF13_An_Inference_Example_300k.srt
 file_size: 34575
 file_type: application/x-subrip
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Photograph of Kuang Xu '
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/b70e841412dab7407669d48a7b7fb95a_K_Xu.jpg
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/b70e841412dab7407669d48a7b7fb95a_K_Xu.jpg
 file_size: 4493
 file_type: image/jpeg
 image_metadata:

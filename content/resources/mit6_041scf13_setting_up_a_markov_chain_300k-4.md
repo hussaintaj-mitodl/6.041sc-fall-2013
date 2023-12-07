@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/f0bef45df52450789689a96ff6e11719_MIT6_041SCF13_Setting_Up_a_Markov_Chain_300k.vtt
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/f0bef45df52450789689a96ff6e11719_MIT6_041SCF13_Setting_Up_a_Markov_Chain_300k.vtt
 file_size: 15332
 file_type: application/x-subrip
 learning_resource_types: []

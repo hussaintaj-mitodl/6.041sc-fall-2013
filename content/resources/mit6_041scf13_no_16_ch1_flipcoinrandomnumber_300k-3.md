@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/a941501e03caad336b2e17cac87dab8c_MIT6_041SCF13_No_16_Ch1_FlipCoinRandomNumber_300k.srt
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/a941501e03caad336b2e17cac87dab8c_MIT6_041SCF13_No_16_Ch1_FlipCoinRandomNumber_300k.srt
 file_size: 10593
 file_type: application/x-subrip
 learning_resource_types: []

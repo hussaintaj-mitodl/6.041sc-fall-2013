@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/961bdf469ee3acd8ced7c7d64d4d9596_MIT6_041SCF13_PMF_of_A_Function_of_a_Random_Variable_300k.srt
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/961bdf469ee3acd8ced7c7d64d4d9596_MIT6_041SCF13_PMF_of_A_Function_of_a_Random_Variable_300k.srt
 file_size: 8135
 file_type: application/x-subrip
 learning_resource_types: []

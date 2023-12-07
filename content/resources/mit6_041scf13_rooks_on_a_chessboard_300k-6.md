@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/217ec4a346c85ce38dcda01fa992428d_MIT6_041SCF13_Rooks_on_a_Chessboard_300k.vtt
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/217ec4a346c85ce38dcda01fa992428d_MIT6_041SCF13_Rooks_on_a_Chessboard_300k.vtt
 file_size: 24760
 file_type: application/x-subrip
 learning_resource_types: []

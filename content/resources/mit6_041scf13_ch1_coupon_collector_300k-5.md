@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/a31024bb29e6528389d4bfdf7b27609a_MIT6_041SCF13_Ch1_Coupon_Collector_300k.vtt
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/a31024bb29e6528389d4bfdf7b27609a_MIT6_041SCF13_Ch1_Coupon_Collector_300k.vtt
 file_size: 8761
 file_type: application/x-subrip
 learning_resource_types: []

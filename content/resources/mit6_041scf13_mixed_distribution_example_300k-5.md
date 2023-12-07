@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/7bb48c28b65c51f6a2b0729fdf44c846_MIT6_041SCF13_Mixed_Distribution_Example_300k.vtt
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/7bb48c28b65c51f6a2b0729fdf44c846_MIT6_041SCF13_Mixed_Distribution_Example_300k.vtt
 file_size: 14515
 file_type: application/x-subrip
 learning_resource_types: []

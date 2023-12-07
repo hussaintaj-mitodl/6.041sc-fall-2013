@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/bdd1a81701e85e61a256d2fd39831214_MIT6_041SCF13_Bernoulli_Process_Practice_I_300k.vtt
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/bdd1a81701e85e61a256d2fd39831214_MIT6_041SCF13_Bernoulli_Process_Practice_I_300k.vtt
 file_size: 7646
 file_type: application/x-subrip
 learning_resource_types: []

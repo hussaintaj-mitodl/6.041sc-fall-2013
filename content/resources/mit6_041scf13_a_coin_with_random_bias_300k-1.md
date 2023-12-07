@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/7242c9e1a5c3a200e95c6703c6c9072d_MIT6_041SCF13_A_Coin_with_Random_Bias_300k.srt
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/7242c9e1a5c3a200e95c6703c6c9072d_MIT6_041SCF13_A_Coin_with_Random_Bias_300k.srt
 file_size: 28611
 file_type: application/x-subrip
 learning_resource_types: []

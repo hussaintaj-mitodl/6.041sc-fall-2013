@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/03b271af3b545bf9952245b0f8f667ee_MIT6_041SCF13_Ch1_Random_Walker_300k.srt
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/03b271af3b545bf9952245b0f8f667ee_MIT6_041SCF13_Ch1_Random_Walker_300k.srt
 file_size: 8407
 file_type: application/x-subrip
 learning_resource_types: []

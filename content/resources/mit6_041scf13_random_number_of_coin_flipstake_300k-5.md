@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/57a414030f895f929da68dc68adcfa88_MIT6_041SCF13_Random_Number_of_Coin_Flipstake_300k.vtt
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/57a414030f895f929da68dc68adcfa88_MIT6_041SCF13_Random_Number_of_Coin_Flipstake_300k.vtt
 file_size: 22660
 file_type: application/x-subrip
 learning_resource_types: []

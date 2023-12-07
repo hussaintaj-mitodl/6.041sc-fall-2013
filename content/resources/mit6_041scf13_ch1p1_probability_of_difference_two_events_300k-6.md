@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/66cca28d47145541ad0ad3ae3c39369d_MIT6_041SCF13_Ch1P1_Probability_of_Difference_Two_Events_300k.vtt
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/66cca28d47145541ad0ad3ae3c39369d_MIT6_041SCF13_Ch1P1_Probability_of_Difference_Two_Events_300k.vtt
 file_size: 6440
 file_type: application/x-subrip
 learning_resource_types: []

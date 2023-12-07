@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/1cfc0afa15f27177cb97f18e85cca2ab_MIT6_041SCF13_Sampling_People_on_Buses_300k.srt
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/1cfc0afa15f27177cb97f18e85cca2ab_MIT6_041SCF13_Sampling_People_on_Buses_300k.srt
 file_size: 15254
 file_type: application/x-subrip
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photograph of Katie Szeto
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/8e740886f7ea79ddd37097b1f8fd7a8d_K_Szeto.jpg
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/8e740886f7ea79ddd37097b1f8fd7a8d_K_Szeto.jpg
 file_size: 3951
 file_type: image/jpeg
 image_metadata:
